@@ -9,11 +9,11 @@ import 'react-toastify/dist/ReactToastify.css';
 function App() {
   return (
     <>
-      {/* <GlobalStyle />
+      <GlobalStyle />
       <Header />
       <Main />
-      <Footer /> */}
-      <h1>Hello Shohan</h1>
+      <Footer />
+      
     </>
   );
 }
