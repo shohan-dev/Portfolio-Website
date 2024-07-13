@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0de387ca.css",
-    "main.js": "/static/js/main.1e4c9db3.js",
+    "main.js": "/static/js/main.25891148.js",
     "static/media/ShohanLogo.png": "/static/media/ShohanLogo.8416d41fb75622a2fa47.png",
     "static/media/Hello.gif": "/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/Shohan Resume.pdf": "/static/media/Shohan Resume.e745d8ae45f24b94eda5.pdf",
@@ -29,10 +29,10 @@
     "static/media/vue-icon.svg": "/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "static/media/icons8-flutter.svg": "/static/media/icons8-flutter.048226813aa67d3b9c69de4b27f7c1fa.svg",
     "main.0de387ca.css.map": "/static/css/main.0de387ca.css.map",
-    "main.1e4c9db3.js.map": "/static/js/main.1e4c9db3.js.map"
+    "main.25891148.js.map": "/static/js/main.25891148.js.map"
   },
   "entrypoints": [
     "static/css/main.0de387ca.css",
-    "static/js/main.1e4c9db3.js"
+    "static/js/main.25891148.js"
   ]
 }
